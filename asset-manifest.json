@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vr-varad21/TicTacToe.git/static/css/main.76b5f0a2.css",
+    "main.js": "/vr-varad21/TicTacToe.git/static/js/main.8dea2c03.js",
+    "index.html": "/vr-varad21/TicTacToe.git/index.html",
+    "main.76b5f0a2.css.map": "/vr-varad21/TicTacToe.git/static/css/main.76b5f0a2.css.map",
+    "main.8dea2c03.js.map": "/vr-varad21/TicTacToe.git/static/js/main.8dea2c03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76b5f0a2.css",
+    "static/js/main.8dea2c03.js"
+  ]
+}
